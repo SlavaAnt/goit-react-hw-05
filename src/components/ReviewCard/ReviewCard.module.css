@@ -1,0 +1,11 @@
+.reviewContent {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.reviewImg {
+  height: 60px;
+  object-fit: contain;
+}

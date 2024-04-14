@@ -1,0 +1,21 @@
+.box {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+.img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.link {
+  display: block;
+  margin: 0 auto;
+  padding: 5px 10px;
+  width: 70px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: rgb(120, 136, 223);
+  cursor: pointer;
+}

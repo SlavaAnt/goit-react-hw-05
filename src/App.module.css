@@ -1,0 +1,18 @@
+.header {
+  padding: 10px 0;
+  background-color: rgba(175, 176, 177, 0.8);
+}
+
+.main {
+  padding: 10px 0;
+  /* background-color: rgba(248, 238, 217, 0.8); */
+}
+
+.mainContainer {
+  /* display: flex;
+  justify-content: space-between; */
+  /* border: 1px solid black; */
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}

@@ -1,0 +1,23 @@
+.movieContainer {
+  display: flex;
+  gap: 50px;
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.movieImg {
+  width: 400px;
+}
+.genreBox {
+  display: flex;
+  gap: 10px;
+}
+.movieTitle {
+  margin-bottom: 10px;
+}
+.subTitle {
+  margin-bottom: 10px;
+}
+.text {
+  margin-bottom: 10px;
+}
